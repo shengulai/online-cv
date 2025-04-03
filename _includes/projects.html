@@ -18,13 +18,13 @@
     {% for project in projects.items %}
       <div class="project-item">
         {% if project.title %}
-        <h3 class="project-subtitle">{{ project.title }}</h3>
+          <div class="project-title">{{ project.title }}</div>
         {% endif %}
         
         {% if project.description %}
-        <div class="project-description">
-          {{ project.description | markdownify }}
-        </div>
+          <div class="project-description">
+            {{ project.description | markdownify }}
+          </div>
         {% endif %}
       </div><!--//project-item-->
     {% endfor %}
