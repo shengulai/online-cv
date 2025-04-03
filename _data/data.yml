@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Gulai Shen
-  tagline: Researcher
+  tagline: Research on building, energy, sustainability and AI
   avatar: gulai.JPG #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -52,7 +52,7 @@ education:
   info:
   - degree: PhD
     university: Harvard University
-    time: 2024-2027
+    time: 2024-2027 (expected)
     details: |
 
   - degree: MS in Mechanical Engineering
@@ -77,7 +77,7 @@ publications:
     authors: Honglin Li, Gulai Shen, Soroush Senemmar, Ali Mehmani, Jie Zhang
     conference: Cell Reports Sustainability, 2025
 
-  - title: Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow
+  - title: Co-optimizing Distributed Energy Resources under Demand Charges and Bi-directional Power Flow
     link: https://doi.org/10.48550/arXiv.2503.07907
     authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
     conference: IEEE PESGM, 2025
@@ -97,7 +97,7 @@ publications:
     authors: Gulai Shen, Hongling Li, Gurpreet Singh, Amir Behjat, Gerald Toge, Souroush Senemmar, Cong Feng, Jie Zhang, Ali Mehmani
     conference: ACEEE Summer Study, 2024
 
-  - title: "Indoor environmental wellness index (IEW-Index): Towards intelligent building systems automation and optimization"
+  - title: "Indoor Environmental Wellness Index (IEW-Index): Towards Intelligent Building Systems Automation and Optimization"
     link: https://doi.org/10.1016/j.buildenv.2023.111039
     authors: Gulai Shen, Yuqi Wang, Ali Mehmani
     conference: Building and Environment, 2024
@@ -178,10 +178,15 @@ experiences:
 recommendations:
   title: Awards and Honors
   summary: |
-    - 2025 GSD Student Conference Attendance Fund Recipient
+    - 2025 Harvard GSD Student Conference Attendance Fund Recipient
+    - 2024 Harvard GSD DDes Grant Recipient
+    - 2024 The Daniel L. Schodek Fellowship Recipient
+    - 2024 Harvard GSD Merit Grant Recipient
     - 2024 Blueprint GenerativeAI in Buildings Challenge Finalist
     - 2022 NYSERDA RTEM Challenge Finalist 9 out of 400+ groups
     - 2022 PropTech Challenge 1 of 5 Finalists
     - 2021 PropTech Challenge – NYSERDA Tenant Energy Data 2nd Place 
-    - 2014-2018 Dean’s List • 2014-2018 James Scholar • 2014 Euclid Mathematics Contest, top 25% worldwide 
+    - 2014-2018 University of Illinois at Urbana-Champaign, Dean’s List
+    - 2014-2018 Unviersity of Illinois, James Scholar
+    - 2014 Euclid Mathematics Contest, top 25% worldwide 
     - 2014 Meicun High School Zouwenhai Scholarship Award, 10 out of the class of 2014
