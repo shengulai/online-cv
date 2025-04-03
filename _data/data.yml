@@ -14,17 +14,17 @@ sidebar:
 
   # Sidebar links
   email: gulai_shen@gsd.harvard.edu
-  phone: 012 345 6789
+  phone:
   timezone: America/Boston # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website:
   linkedin: https://www.linkedin.com/in/gulai-shen-59a09ba9/
-  xing: alandoe
-  github: jekyll
+  xing:
+  github:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,42 +33,11 @@ sidebar:
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
-
-career-profile:
-  title: Career Profile
+latest-update:
+  title: Latest
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    My latest paper is now available on Cell Reports Sustainability.
 education:
   title: Education
   info:
