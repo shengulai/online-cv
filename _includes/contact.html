@@ -33,13 +33,13 @@
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+      <a href="{{ sidebar.website }}" target="_blank">{% if sidebar.website-name %}{{ sidebar.website-name }}{% else %}{{ sidebar.website }}{% endif %}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{% if sidebar.linkedin-name %}{{ sidebar.linkedin-name }}{% else %}{{ sidebar.linkedin }}{% endif %}</a>
     </li>
     {% endif %}
 
