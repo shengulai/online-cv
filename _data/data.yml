@@ -43,6 +43,8 @@ career-profile:
 
     - My latestest paper titled **Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow** is now available on arXiv as a preprint.
 
+####################################################################################################
+
 education:
   title: Education
   info:
@@ -68,6 +70,11 @@ publications:
   intro: |
 
   papers:
+  - title: Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization
+    link: In print
+    authors: Honglin Li, Gulai Shen, Soroush Senemmar, Ali Mehmani, Jie Zhang
+    conference: Cell Reports Sustainability, 2025
+
   - title: Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow
     link: https://doi.org/10.48550/arXiv.2503.07907
     authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
@@ -163,3 +170,15 @@ experiences:
       - Developed and Implemented IoT-sensor based hardware and software for smart building communities.
       - Led research projects on optimization related to smart building applications with water and other energy.
       - Led research projects on Grid-interactive buildings optimal scheduling and control applications.
+
+####################################################################################################
+
+recommendations:
+  title: Awards and Honors
+  summary: |
+    - 2024 Blueprint GenerativeAI in Buildings Challenge Finalist
+    - 2022 NYSERDA RTEM Challenge Finalist 9 out of 400+ groups
+    - 2022 PropTech Challenge 1 of 5 Finalists
+    - 2021 PropTech Challenge – NYSERDA Tenant Energy Data 2nd Place 
+    - 2014-2018 Dean’s List • 2014-2018 James Scholar • 2014 Euclid Mathematics Contest, top 25% worldwide 
+    - 2014 Meicun High School Zouwenhai Scholarship Award, 10 out of the class of 2014
