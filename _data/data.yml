@@ -124,11 +124,11 @@ projects:
 
     - title: ASME International Design Engineering Technical Conferences (IDETC), 2025
       description: |
-        Session Chair for DAC-05-Design and Optimization of Energy Systems for IDETC 2025 
+        Session Chair for DAC-05-Design and Optimization of Energy Systems for [ASME IDETC](https://event.asme.org/IDETC-CIE) 2025 
 
     - title: Princeton Energy Conference 2022
       description: |
-        Invited panelist and industry guest
+        Industry guest and panelist
 
     - title: Evaluating the Performance of HVAC Optimal Control Based on Real-time Floor-by-Floor Occupancy Data
       description: |
@@ -138,7 +138,7 @@ projects:
       description: |
         Acknowledged contribution and technical support for this project [Link to the paper](https://eta-publications.lbl.gov/sites/default/files/evaluating_the_performance_of_hvac_optimal_control_0.pdf)
 
-    - title: Journal and conference paper reviews
+    - title: Paper Reviews
       description: |
         IEEE PESGM 2025, Solar Energy, ACEEE Summer Study 2024, ASME IDETC 2021 - 2025
 
