@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: gulai_shen@gsd.harvard.edu
   phone:
-  timezone: America/Boston # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website: https://scholar.google.com/citations?user=AWUdqcIAAAAJ&hl=en&oi=ao
   website-name: Google Scholar
   linkedin: gulai-shen-59a09ba9
@@ -59,34 +59,7 @@ education:
     time: 2014-2018
     details: |
 
-experiences:
-  title: Experiences
-  info:
-  - role: Research Assistant
-    time: 2024 - Present
-    company: Harvard Center for Green Buildings and Cities, Harvard University
-    details: |
-      - Researching and developing learning-based intelligent systems to building systems.
-      - Researching and developing interactive occupant-centric smart controls algorithms.
-      - Facilitating operation and performing analysis on Harvard HouseZero.
-
-  - role: Research Scientist, Lead AI Research
-    time: 2020 - 2024
-    company: Nantum AI, New York
-    details: |
-      - Researching and developing ML, AI applications for building and portfolio (JPMC, GSA, Blackrock, Rudin, etc.) carbon measurement, decarbonization, carbon procurement, and carbon accounting. 
-      - Developing and managing real-time occupancy-driven optimal Building Control and Energy Conservation Application prototypes and products, for building controls using Data Science and Analytics, ML and AI.
-      - Developing physics-informed ML modeling for building potential savings and Measurement & Verification. National Research Laboratory verified $28.7M In Potential Annual Energy Savings for GSA portfolio.
-      - Performing and managing research on various smart-building related applications including Fault Detection Diagnostic, space utilization, occupancy sensing, etc.
-      - Participating in industry challenges, conferences, and paper publications and reviews.
-
-  - role: Research Assistant
-    time: 2014 - 2015
-    company: Energy and the Environment Research Laboratory, Cornell University
-    details: |
-      - Developed and Implemented IoT-sensor based hardware and software for smart building communities.
-      - Led research projects on optimization related to smart building applications with water and other energy.
-      - Led research projects on Grid-interactive buildings optimal scheduling and control applications.
+####################################################################################################
 
 publications:
   title: Publications
@@ -126,3 +99,59 @@ publications:
 
 footer: >
   Template is adapted from the orignal design by Xiaoying Riley
+
+####################################################################################################
+
+projects:
+   title: Academic Community
+   intro:
+   assignments:
+   - title: Building and Vehicle Air Environment (BVAE) Seminar of Young Scholas, Feb 2025
+     link:
+     tagline: "Presenter, Presentation topic: Optimizing Building Operations Using Data and AI"
+
+   - title: ASME International Design Engineering Technical Conferences (IDETC), 2025
+     link:
+     tagline: Session Chair for DAC-05-Design and Optimization of Energy Systems for IDETC 2025 
+
+   - title: Princeton Energy Conference 2022
+     tagline: Invited panelist and industry guest
+
+   - title: Jounral and conference paper reviews
+     tagline: |
+        - IEEE PESGM 2025
+        - Solar Energy
+        - ACEEE Summer Study 2024
+        - ASME IDETC 2021 - 2025
+
+
+####################################################################################################
+
+experiences:
+  title: Experiences
+  info:
+  - role: Research Assistant
+    time: 2024 - Present
+    company: Harvard Center for Green Buildings and Cities, Harvard University
+    details: |
+      - Researching and developing learning-based intelligent systems to building systems.
+      - Researching and developing interactive occupant-centric smart controls algorithms.
+      - Facilitating operation and performing analysis on Harvard HouseZero.
+
+  - role: Research Scientist, Lead AI Research
+    time: 2020 - 2024
+    company: Nantum AI, New York
+    details: |
+      - Researching and developing ML, AI applications for building and portfolio (JPMC, GSA, Blackrock, Rudin, etc.) carbon measurement, decarbonization, carbon procurement, and carbon accounting. 
+      - Developing and managing real-time occupancy-driven optimal Building Control and Energy Conservation Application prototypes and products, for building controls using Data Science and Analytics, ML and AI.
+      - Developing physics-informed ML modeling for building potential savings and Measurement & Verification. National Research Laboratory verified $28.7M In Potential Annual Energy Savings for GSA portfolio.
+      - Performing and managing research on various smart-building related applications including Fault Detection Diagnostic, space utilization, occupancy sensing, etc.
+      - Participating in industry challenges, conferences, and paper publications and reviews.
+
+  - role: Research Assistant
+    time: 2014 - 2015
+    company: Energy and the Environment Research Laboratory, Cornell University
+    details: |
+      - Developed and Implemented IoT-sensor based hardware and software for smart building communities.
+      - Led research projects on optimization related to smart building applications with water and other energy.
+      - Led research projects on Grid-interactive buildings optimal scheduling and control applications.
