@@ -41,9 +41,9 @@ career-profile:
   summary: |
     - I will be chairing the session **Design and Optimization of Energy Systems** at [ASME IDETC 2025](https://event.asme.org/IDETC-CIE).
     
-    - My latest paper titled **Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization** is now available on Cell Reports Sustainability.
+    - My latest paper titled **Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization** is now available on Cell Reports Sustainability.
 
-    - My latestest paper titled [**Co-optimizing Distributed Energy Resources under Demand Charges and Bi-directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907) is now available on arXiv as a preprint.
+    - My latestest paper titled [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907) is now available on arXiv as a preprint.
 
 ####################################################################################################
 
@@ -72,17 +72,17 @@ publications:
   intro: |
 
   papers:
-  - title: Co-optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data (Under review)
+  - title: Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data (Under review)
     link:
     authors: Gulai Shen, Gurpreet Singh, Ali Mehmani
     conference: ASME IDETC, 2025
 
-  - title: Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization (In print)
+  - title: Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization (In print)
     link:
     authors: Honglin Li, Gulai Shen, Soroush Senemmar, Ali Mehmani, Jie Zhang
     conference: Cell Reports Sustainability, 2025
 
-  - title: Co-optimizing Distributed Energy Resources under Demand Charges and Bi-directional Power Flow
+  - title: Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow
     link: https://doi.org/10.48550/arXiv.2503.07907
     authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
     conference: IEEE PESGM, 2025
@@ -92,12 +92,12 @@ publications:
     authors: Gulai Shen, John J. Gilbert, Ali Mehmani 
     conference: Building and Environment, 2025
 
-  - title: Physics-infused Retrofit Isolation Measurement and Verification for AI-driven Energy Applications
+  - title: Physics-Infused Retrofit Isolation Measurement and Verification for AI-Driven Energy Applications
     link: https://www.aceee.org/sites/default/files/proceedings/ssb24/pdfs/20240722163142953_ac7adcc9-3b39-40d2-9267-2922ffe2449a.pdf
     authors: Amir Behjat, Gulai Shen, Gurpreet Singh, Gerald Toge, Ali Mehmani
     conference: ACEEE Summer Study, 2024
 
-  - title: Demand-side Management Under Real-time Greenhouse Gas Emission Factor for Electricity
+  - title: Demand-Side Management Under Real-Time Greenhouse Gas Emission Factor for Electricity
     link: https://www.aceee.org/sites/default/files/proceedings/ssb24/assets/attachments/20240722160820156_dc2bd876-d2a6-4d6b-bcf0-60dc80e92fa1.pdf
     authors: Gulai Shen, Hongling Li, Gurpreet Singh, Amir Behjat, Gerald Toge, Souroush Senemmar, Cong Feng, Jie Zhang, Ali Mehmani
     conference: ACEEE Summer Study, 2024
