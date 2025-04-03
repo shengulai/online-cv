@@ -72,8 +72,13 @@ publications:
   intro: |
 
   papers:
-  - title: Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization
-    link: In print
+  - title: Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data (In process)
+    link:
+    authors: Gulai Shen, Gurpreet Singh, Ali Mehmani
+    conference: ASME IDETC, 2025
+
+  - title: Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization (In print)
+    link:
     authors: Honglin Li, Gulai Shen, Soroush Senemmar, Ali Mehmani, Jie Zhang
     conference: Cell Reports Sustainability, 2025
 
@@ -89,7 +94,7 @@ publications:
 
   - title: Physics-infused Retrofit Isolation Measurement and Verification for AI-driven Energy Applications
     link: https://www.aceee.org/sites/default/files/proceedings/ssb24/pdfs/20240722163142953_ac7adcc9-3b39-40d2-9267-2922ffe2449a.pdf
-    authors: Gulai Shen, Amir Behjat, Gurpreet Singh, Gerald Toge, Ali Mehmani
+    authors: Amir Behjat, Gulai Shen, Gurpreet Singh, Gerald Toge, Ali Mehmani
     conference: ACEEE Summer Study, 2024
 
   - title: Demand-side Management Under Real-time Greenhouse Gas Emission Factor for Electricity
@@ -106,10 +111,6 @@ publications:
     link: https://doi.org/10.1016/j.enbuild.2021.110924
     authors: Gulai Shen, Zachary E. Lee, Ali Amadeh, K. Max Zhang
     conference: Energy and Buildings, 2021
-
-
-footer: >
-  Template is adapted from the orignal design by Xiaoying Riley
 
 ####################################################################################################
 
@@ -187,6 +188,12 @@ recommendations:
     - 2022 PropTech Challenge 1 of 5 Finalists
     - 2021 PropTech Challenge – NYSERDA Tenant Energy Data 2nd Place 
     - 2014-2018 University of Illinois at Urbana-Champaign, Dean’s List
-    - 2014-2018 Unviersity of Illinois, James Scholar
+    - 2014-2018 Unviersity of Illinois at Urbana-Champaign, James Scholar
     - 2014 Euclid Mathematics Contest, top 25% worldwide 
     - 2014 Meicun High School Zouwenhai Scholarship Award, 10 out of the class of 2014
+
+
+####################################################################################################
+
+footer: >
+  Template is adapted from the orignal design by Xiaoying Riley
