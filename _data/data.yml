@@ -37,7 +37,7 @@ sidebar:
 career-profile:
   title: Latest
   summary: |
-    My latest paper is now available on Cell Reports Sustainability.
+    My latest paper titled **Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization** is now available on Cell Reports Sustainability.
 
 education:
   title: Education
@@ -89,24 +89,27 @@ experiences:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow
+    link: https://doi.org/10.48550/arXiv.2503.07907
+    authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
+    conference: IEEE PESGM, 2025
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: Using PeopleHour for Occupant-Centric Office Building Performance Assessment
+    link: https://doi.org/10.1016/j.buildenv.2024.112366
+    authors: Gulai Shen, John J. Gilbert, Ali Mehmani 
+    conference: Building and Environment, 2025
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: "Indoor environmental wellness index (IEW-Index): Towards intelligent building systems automation and optimization"
+    link: https://doi.org/10.1016/j.buildenv.2023.111039
+    authors: Gulai Shen, Yuqi Wang, Ali Mehmani
+    conference: Building and Environment, 2024
+
+  - title: "A Data-Driven Electric Water Heater Scheduling and Control System"
+    link: https://doi.org/10.1016/j.enbuild.2021.110924
+    authors: Gulai Shen, Zachary E. Lee, Ali Amadeh, K. Max Zhang
+    conference: Energy and Buildings, 2021
 
 
 footer: >
