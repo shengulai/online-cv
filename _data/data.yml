@@ -39,7 +39,9 @@ sidebar:
 career-profile:
   title: Latest
   summary: |
-    My latest paper titled **Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization** is now available on Cell Reports Sustainability.
+    - My latest paper titled **Real-time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization** is now available on Cell Reports Sustainability.
+
+    - My latestest paper titled **Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow** is now available on arXiv as a preprint.
 
 education:
   title: Education
@@ -118,11 +120,7 @@ projects:
      tagline: Invited panelist and industry guest
 
    - title: Jounral and conference paper reviews
-     tagline: |
-        - IEEE PESGM 2025
-        - Solar Energy
-        - ACEEE Summer Study 2024
-        - ASME IDETC 2021 - 2025
+     tagline: IEEE PESGM 2025, Solar Energy, ACEEE Summer Study 2024, ASME IDETC 2021 - 2025
 
 
 ####################################################################################################
