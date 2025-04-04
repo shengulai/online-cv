@@ -118,7 +118,7 @@ projects:
   title: Academic Community
   summary:
   items:
-    - title: Building and Vehicle Air Environment (BVAE) Seminar of Young Scholars, Feb 2025
+    - title: Building and Vehicle Air Environment (BVAE) Seminar of Young Scholars, 2025
       description: |
         Presenter, Presentation topic: Optimizing Building Operations Using Data and AI
 
@@ -126,19 +126,23 @@ projects:
       description: |
         Session Chair for DAC-05-Design and Optimization of Energy Systems for [ASME IDETC](https://event.asme.org/IDETC-CIE) 2025 
 
-    - title: Princeton Energy Conference 2022
+    - title: Princeton Energy Conference, 2022
       description: |
         Industry guest and panelist
 
-    - title: Evaluating the Performance of HVAC Optimal Control Based on Real-time Floor-by-Floor Occupancy Data
+    - title: AEE World Conference, 2022
+      description: |
+        Presenter, Presentation topic: Using AI for Anomaly Detection, Carbon Tracing, Energy Savings & More
+
+    - title: Evaluating the Performance of HVAC Optimal Control Based on Real-time Floor-by-Floor Occupancy Data, 2022
       description: |
         Acknowledged contribution and technical support for this project [Link to the paper](https://doi.org/10.2172/1885699)
 
-    - title: Evaluating the Performance of HVAC Optimal Control Based on Real-time Floor-by-Floor Occupancy Data
+    - title: Evaluating the Performance of HVAC Optimal Control Based on Real-time Floor-by-Floor Occupancy Data, 2022
       description: |
         Acknowledged contribution and technical support for this project [Link to the paper](https://eta-publications.lbl.gov/sites/default/files/evaluating_the_performance_of_hvac_optimal_control_0.pdf)
 
-    - title: Paper Reviews
+    - title: Paper Reviews, 2021 - Present
       description: |
         IEEE PESGM 2025, Solar Energy, ACEEE Summer Study 2024, ASME IDETC 2021 - 2025
 
