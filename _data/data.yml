@@ -41,7 +41,7 @@ career-profile:
   summary: |
     - I will be chairing the session **Design and Optimization of Energy Systems** at [ASME IDETC 2025](https://event.asme.org/IDETC-CIE).
     
-    - My latest paper titled **Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization** is now available on Cell Reports Sustainability.
+    - My latest paper titled [**Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization**](https://doi.org/10.1016/j.crsus.2025.100367) is now available on Cell Reports Sustainability.
 
     - My latestest paper titled [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907) is now available on arXiv as a preprint.
 
@@ -77,8 +77,8 @@ publications:
     authors: Gulai Shen, Gurpreet Singh, Ali Mehmani
     conference: ASME IDETC, 2025
 
-  - title: Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization (In print)
-    link:
+  - title: Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization
+    link: https://doi.org/10.1016/j.crsus.2025.100367
     authors: Honglin Li, Gulai Shen, Soroush Senemmar, Ali Mehmani, Jie Zhang
     conference: Cell Reports Sustainability, 2025
 
