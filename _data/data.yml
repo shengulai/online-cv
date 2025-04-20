@@ -136,11 +136,11 @@ projects:
 
     - title: Field Validation of a Building Operating System Platform, 2022
       description: |
-        Acknowledged contribution and technical support for this project [Link to the paper](https://doi.org/10.2172/1885699)
+        Acknowledged contribution and technical support for this project. [Link to the paper](https://doi.org/10.2172/1885699)
 
     - title: Evaluating the Performance of HVAC Optimal Control Based on Real-time Floor-by-Floor Occupancy Data, 2022
       description: |
-        Acknowledged contribution and technical support for this project [Link to the paper](https://eta-publications.lbl.gov/sites/default/files/evaluating_the_performance_of_hvac_optimal_control_0.pdf)
+        Acknowledged contribution and technical support for this project. [Link to the paper](https://eta-publications.lbl.gov/sites/default/files/evaluating_the_performance_of_hvac_optimal_control_0.pdf)
 
     - title: Paper Reviews, 2021 - Present
       description: |
@@ -171,7 +171,7 @@ experiences:
       - Participating in industry challenges, conferences, and paper publications and reviews.
 
   - role: Research Assistant
-    time: 2014 - 2015
+    time: 2019 - 2020
     company: Energy and the Environment Research Laboratory, Cornell University
     details: |
       - Developed and Implemented IoT-sensor based hardware and software for smart building communities.
