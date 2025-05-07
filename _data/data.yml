@@ -120,6 +120,10 @@ projects:
   title: Academic Community
   summary:
   items:
+    - title: ASME International Design Engineering Technical Conferences (IDETC), 2025
+      description: |
+        Session Chair for DAC-05-Design and Optimization of Energy Systems
+        
     - title: Northeast Systems and Control Workshop (NECSW), 2025
       description: |
         Presenter, Poster presentation for [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907)
@@ -127,10 +131,6 @@ projects:
     - title: Building and Vehicle Air Environment (BVAE) Seminar of Young Scholars, 2025
       description: |
         Presenter, Presentation topic: Optimizing Building Operations Using Data and AI
-
-    - title: ASME International Design Engineering Technical Conferences (IDETC), 2025
-      description: |
-        Session Chair for DAC-05-Design and Optimization of Energy Systems
 
     - title: Princeton Energy Conference, 2022
       description: |
