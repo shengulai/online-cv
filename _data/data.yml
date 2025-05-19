@@ -45,7 +45,7 @@ career-profile:
     
     - **May 3, 2025**: My latested paper [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907) was presented as a poseter at [Northeast Systems and Control Workshop (NECSW)](https://nescw.org) at Columbia University.
 
-    - **Apr, 2025**: My latest paper titled **Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data** is accepted by ASME IDETC 2025.
+    - **May, 2025**: My latest paper titled [**Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data**](https://arxiv.org/abs/2505.15041) is accepted by ASME IDETC 2025 and now available as a preprint.
     
     - **Apr, 2025**: My latest paper titled [**Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization**](https://doi.org/10.1016/j.crsus.2025.100367) is now available on Cell Reports Sustainability.
 
@@ -76,8 +76,8 @@ publications:
   intro: |
 
   papers:
-  - title: Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data (Accepted)
-    link:
+  - title: Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data
+    link: https://arxiv.org/abs/2505.15041
     authors: Gulai Shen, Gurpreet Singh, Ali Mehmani
     conference: ASME IDETC, 2025
 
