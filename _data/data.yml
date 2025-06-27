@@ -42,6 +42,8 @@ career-profile:
     - **Oct 26-29, 2025**: I will be speaking at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) at Atlanta, Georgia.
   
     - **Aug 17-20, 2025**: I will be chairing the session **Design and Optimization of Energy Systems** at [ASME IDETC 2025](https://event.asme.org/IDETC-CIE).
+
+    - **Jun, 2025**: My latest paper titled [**Joint Scheduling of DER under Demand Charges: Structure and Approximation**](https://doi.org/10.48550/arXiv.2506.21510) is now available on arXiv as a preprint. The full paper is under review by IEEE Transactions on Smart Grid.
     
     - **May 3, 2025**: My latested paper [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907) was presented as a poseter at [Northeast Systems and Control Workshop (NECSW)](https://nescw.org) at Columbia University.
 
@@ -76,6 +78,12 @@ publications:
   intro: |
 
   papers:
+
+  - title: Joint Scheduling of DER under Demand Charges$:$ Structure and Approximation
+    link: https://doi.org/10.48550/arXiv.2506.21510
+    authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
+    conference: arXiv,2025; IEEE Transactions on Smart Grid (Under Review)
+
   - title: Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data
     link: https://arxiv.org/abs/2505.15041
     authors: Gulai Shen, Gurpreet Singh, Ali Mehmani
