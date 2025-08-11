@@ -130,6 +130,10 @@ projects:
   title: Academic Community
   summary:
   items:
+    - title: Harvard GSD DDes Conference, 2025
+      description: |
+        Organizer for the Harvard GSD annual DDes Conference 2025
+
     - title: ASME International Design Engineering Technical Conferences (IDETC), 2025
       description: |
         Session Chair for DAC-05-Design and Optimization of Energy Systems
@@ -207,9 +211,9 @@ recommendations:
   title: Awards and Honors
   summary: |
     - 2025 Harvard GSD Student Conference Attendance Fund Recipient
-    - 2024 Harvard GSD DDes Grant Recipient
+    - 2024-2025 Harvard GSD DDes Grant Recipient
+    - 2024-2025 Harvard GSD Merit Grant Recipient
     - 2024 The Daniel L. Schodek Fellowship Recipient
-    - 2024 Harvard GSD Merit Grant Recipient
     - 2024 Blueprint Generative AI in Buildings Challenge Finalist
     - 2022 NYSERDA RTEM Challenge Finalist 9 out of 400+ groups
     - 2022 PropTech Challenge 1 of 5 Finalists
