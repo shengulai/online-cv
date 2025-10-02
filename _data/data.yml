@@ -82,56 +82,60 @@ publications:
   papers:
 
   - title: Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling
-    authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, **Gulai Shen**, Yiwei Lyu, Peter Howard
-    conference: (Under Review)
+    authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
+    conference: Nature Scientific Data, 2025 (Under Review)
+
+  - title: Asynchronous multi-agent reinforcement learning for coordinated control of natural ventilation and radiant cooling
+    authors: Elence Xinzhu Chen, Ali Malkawi, Holly Samuelson, Gulai Shen, Na Li
+    conference: Energy and Buildings, 2025(Under Review)
 
   - title: Human Building Interaction Through Large Language Model
-    authors: **Gulai Shen**, Yuqi Wang, Gurpreet Singh, Ali Mehmani
+    authors: Gulai Shen, Yuqi Wang, Gurpreet Singh, Ali Mehmani
     conference: (Under Review)
 
   - title: Joint Scheduling of DER under Demand Charges Structure and Approximation
     link: https://doi.org/10.48550/arXiv.2506.21510
-    authors: **Gulai Shen**, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
+    authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
     conference: IEEE Transactions on Smart Grid, 2025 (Under Review)
 
   - title: Co-Optimize Condenser Water Temperature and Cooling Tower Fan Using High-Fidelity Synthetic Data
     link: https://arxiv.org/abs/2505.15041
-    authors: **Gulai Shen**, Gurpreet Singh, Ali Mehmani
+    authors: Gulai Shen, Gurpreet Singh, Ali Mehmani
     conference: ASME IDETC, 2025
 
   - title: Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization
     link: https://doi.org/10.1016/j.crsus.2025.100367
-    authors: Honglin Li, **Gulai Shen**, Soroush Senemmar, Ali Mehmani, Jie Zhang
+    authors: Honglin Li, Gulai Shen, Soroush Senemmar, Ali Mehmani, Jie Zhang
     conference: Cell Reports Sustainability, 2025
 
   - title: Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow
     link: https://doi.org/10.48550/arXiv.2503.07907
-    authors: **Gulai Shen**, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
+    authors: Gulai Shen, Ruixiao Yang, Ahmed S. Alahmed, Chuchu Fan
     conference: IEEE PESGM, 2025
 
   - title: Using PeopleHour for Occupant-Centric Office Building Performance Assessment
     link: https://doi.org/10.1016/j.buildenv.2024.112366
-    authors: **Gulai Shen**, John J. Gilbert, Ali Mehmani 
+    authors: Gulai Shen, John J. Gilbert, Ali Mehmani 
     conference: Building and Environment, 2025
 
   - title: Physics-Infused Retrofit Isolation Measurement and Verification for AI-Driven Energy Applications
     link: https://www.aceee.org/sites/default/files/proceedings/ssb24/pdfs/20240722163142953_ac7adcc9-3b39-40d2-9267-2922ffe2449a.pdf
-    authors: Amir Behjat, **Gulai Shen**, Gurpreet Singh, Gerald Toge, Ali Mehmani
+    authors: Amir Behjat, Gulai Shen, Gurpreet Singh, Gerald Toge, Ali Mehmani
     conference: ACEEE Summer Study, 2024
 
   - title: Demand-Side Management Under Real-Time Greenhouse Gas Emission Factor for Electricity
     link: https://www.aceee.org/sites/default/files/proceedings/ssb24/assets/attachments/20240722160820156_dc2bd876-d2a6-4d6b-bcf0-60dc80e92fa1.pdf
-    authors: **Gulai Shen**, Hongling Li, Gurpreet Singh, Amir Behjat, Gerald Toge, Souroush Senemmar, Cong Feng, Jie Zhang, Ali Mehmani
+    authors: Gulai Shen, Hongling Li, Gurpreet Singh, Amir Behjat, Gerald Toge, Souroush Senemmar, Cong Feng, Jie Zhang, Ali Mehmani
     conference: ACEEE Summer Study, 2024
 
   - title: "Indoor Environmental Wellness Index (IEW-Index): Towards Intelligent Building Systems Automation and Optimization"
     link: https://doi.org/10.1016/j.buildenv.2023.111039
-    authors: **Gulai Shen**, Yuqi Wang, Ali Mehmani
+    authors: Gulai Shen, Yuqi Wang, Ali Mehmani
     conference: Building and Environment, 2024
 
   - title: "A Data-Driven Electric Water Heater Scheduling and Control System"
     link: https://doi.org/10.1016/j.enbuild.2021.110924
-    authors: **Gulai Shen**, Zachary E. Lee, Ali Amadeh, K. Max Zhang
+    authors: Gulai Shen, Zachary E. Lee, Ali Amadeh, K. Max Zhang
     conference: Energy and Buildings, 2021
 
 ####################################################################################################
