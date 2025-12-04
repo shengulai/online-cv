@@ -76,6 +76,9 @@ publications:
   intro: |
 
   papers:
+  - title: Towards human building interactive occupant-centric control$:$ A critical review
+    authors: Gulai Shen, Ting Dai, Yiwei Lyu, Ali Malkawi
+    conference: Renewable and Sustainable Energy Reviews, 2025 (Under Review)
 
   - title: Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling
     authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
