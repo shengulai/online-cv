@@ -136,7 +136,7 @@ publications:
 ####################################################################################################
 
 projects:
-  title: Academia and Industry Engagement
+  title: Academic Community
   summary:
   items:
     
@@ -147,10 +147,6 @@ projects:
     - title: Harvard GSD DDes Conference, 2025
       description: |
         Organizer and panel host for the Harvard GSD DDes Conference 2025. [**Full event replay**](https://www.gsd.harvard.edu/event/ddes-conference-2025-homecast/)
-
-    - title: It's a Controls Problem, 2025
-      description: |
-        Invited Podcast Guest Speaker, Podcast Topic: [**Data, AI, and the Next Chapter in Building Automation**](https://open.spotify.com/episode/7abtfUr64ZO0k1FNMv31Da?si=PQhgerhWRg6VAfLBqfZ55Q&nd=1&dlsi=e7adf8dec3764221)
 
     - title: ASME International Design Engineering Technical Conferences (IDETC), 2025
       description: |
@@ -167,22 +163,6 @@ projects:
     - title: "Building Performance Software: Portfolio-Level Capabilities and Applications, 2024"
       description: |
         My work at NANTUM AI contributed the LBNL paper that outlines the state of energy management information systems' capabilities on decarbonization and energy efficiency. [**Link to the paper**](https://dx.doi.org/doi.org/10.20357/B78P57)
-
-    - title: Solar Eclipse Insights on the Grid and Buildings, 2024
-      description: | 
-        Author, NANTUM AI case study on the solar eclipse insights on the grid and buildings [**Link to the case study**](https://www.nantum.ai/research/case-studies/solar-eclipse-insights-on-the-grid-and-buildings)
-
-    - title: Rudin ESG Report, 2024
-      description: |
-        My work at NANTUM AI was featured in the Rudin 2024 ESG Report for empowering Rudin buildings with actionable insights and automation that drive sustainable operations. [**Link to the report**](https://www.flipsnack.com/A6FFF7EEFB5/rudin-2024-esg-report/full-view.html)
-    
-    - title: JPMorgan Chase ESG Report, 2023
-      description: |
-        My work at NANTUM AI was featured in the JPMorgan Chase ESG Report 2023 that helped reduce energy use while maximizing thermal comfort and indoor air quality for occupants for JPMC corporate facilities. [**Link to the report**](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-2023.pdf)
-    
-    - title: Jamestown Sustainability & Social Responsibility Report, 2023
-      description: |
-        My work at NANTUM AI was featured in the Jamestown Sustainability & Social Responsibility Report 2023 that saved $71,000 (260% ROI) at Waterfront Plaza (San Francisco, CA) in 2023. [**Link to the report**](https://www.jamestownlp.com/uploads/Jamestown-Sustainability-Social-Responsibility-Report-2023-c.pdf)
 
     - title: Princeton Energy Conference, 2022
       description: |
@@ -226,6 +206,37 @@ projects:
         Teaching Assistant:
         - UIUC TAM 251: Solid Mechanics, 2017-2018
         - UIUC TAM 211: Statics, 2016-2017
+
+####################################################################################################
+
+press:
+  title: In the Press
+  summary:
+  items:
+
+    - title: What Is Best Time To Consume Electricity, Cut Carbon Emissions?, 2025
+      description: |
+        Author, my paper titled [**Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization**](https://doi.org/10.1016/j.crsus.2025.100367) publsihed on Cell Reports Sustainability is featured as a [**news story**](https://news.utdallas.edu/science-technology/electricity-timing-2025/) at UT Dallas News Center.
+
+    - title: It's a Controls Problem, 2025
+      description: |
+        Invited Podcast Guest Speaker, Podcast Topic: [**Data, AI, and the Next Chapter in Building Automation**](https://open.spotify.com/episode/7abtfUr64ZO0k1FNMv31Da?si=PQhgerhWRg6VAfLBqfZ55Q&nd=1&dlsi=e7adf8dec3764221)
+
+    - title: Solar Eclipse Insights on the Grid and Buildings, 2024
+      description: | 
+        Author, NANTUM AI case study on the solar eclipse insights on the grid and buildings [**Link to the case study**](https://www.nantum.ai/research/case-studies/solar-eclipse-insights-on-the-grid-and-buildings)
+
+    - title: Rudin ESG Report, 2024
+      description: |
+        My work at NANTUM AI was featured in the Rudin 2024 ESG Report for empowering Rudin buildings with actionable insights and automation that drive sustainable operations. [**Link to the report**](https://www.flipsnack.com/A6FFF7EEFB5/rudin-2024-esg-report/full-view.html)
+    
+    - title: JPMorgan Chase ESG Report, 2023
+      description: |
+        My work at NANTUM AI was featured in the JPMorgan Chase ESG Report 2023 that helped reduce energy use while maximizing thermal comfort and indoor air quality for occupants for JPMC corporate facilities. [**Link to the report**](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-2023.pdf)
+    
+    - title: Jamestown Sustainability & Social Responsibility Report, 2023
+      description: |
+        My work at NANTUM AI was featured in the Jamestown Sustainability & Social Responsibility Report 2023 that saved $71,000 (260% ROI) at Waterfront Plaza (San Francisco, CA) in 2023. [**Link to the report**](https://www.jamestownlp.com/uploads/Jamestown-Sustainability-Social-Responsibility-Report-2023-c.pdf)
 
 
 ####################################################################################################
