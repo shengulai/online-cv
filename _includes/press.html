@@ -15,18 +15,18 @@
   </div><!--//summary-->
   
   {% if press.items %}
-    {% for press in press.items %}
-      <div class="press-item">
-        {% if press.title %}
-          <div class="press-title">{{ press.title }}</div>
+    {% for project in press.items %}
+      <div class="project-item">
+        {% if project.title %}
+          <div class="project-title">{{ project.title }}</div>
         {% endif %}
         
-        {% if press.description %}
-          <div class="press-description">
-            {{ press.description | markdownify }}
+        {% if project.description %}
+          <div class="project-description">
+            {{ project.description | markdownify }}
           </div>
         {% endif %}
-      </div><!--//press-item-->
+      </div><!--//project-item-->
     {% endfor %}
   {% endif %}
     
