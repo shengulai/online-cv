@@ -82,7 +82,7 @@ publications:
 
   - title: Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling
     authors: Elence Xinzhu Chen, Ali Malkawi, Holly Samuelson, Gulai Shen, Na Li
-    conference: Energy and Buildings, 2025(Under Review)
+    conference: Energy and Buildings, 2025 (Under Review)
 
   - title: Human Building Interaction Through Large Language Model
     authors: Gulai Shen, Yuqi Wang, Gurpreet Singh, Ali Mehmani
@@ -154,7 +154,7 @@ projects:
 
     - title: Northeast Systems and Control Workshop (NECSW), 2025
       description: |
-        Presenter, Poster presentation for [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907). [**Link to the poster**](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:11ad8afa-014f-4281-9f06-004db4847604)
+        Presenter, Poster presentation for the paper titled [**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**](https://doi.org/10.48550/arXiv.2503.07907). [**Link to the poster**](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:11ad8afa-014f-4281-9f06-004db4847604)
 
     - title: Building and Vehicle Air Environment (BVAE) Seminar of Young Scholars, 2025
       description: |
@@ -170,7 +170,7 @@ projects:
 
     - title: AEE World Conference, 2022
       description: |
-        Presenter, Presentation topic: Using AI for Anomaly Detection, Carbon Tracing, Energy Savings & More
+        Presenter, Presentation topic: Using AI for Anomaly Detection, Carbon Tracing, Energy Savings & More.
 
     - title: Field Validation of a Building Operating System Platform, 2022
       description: |
@@ -194,18 +194,18 @@ projects:
     
     - title: Teaching Experience
       description: |
-        Instructor
-        - Havard: Data and AI in Building Operation and Management, Winter 2026
+        Instructor:
+        - Havard, Data and AI in Building Operation and Management, Winter 2026
         
         Teaching Fellow:
-        - Harvard SCI 6125: Building Simulation, Spring 2026
-        - Harvard SCI 6126: Materials, Spring 2026
-        - Harvard SCI 6121: Environmetal Systems, Fall 2025
-        - Harvard SCI 6492: Quantitative Aesthetics : Introduction to Machine Learning and Perceptual Machines for Design, Fall 2025
+        - Harvard, SCI 6125: Building Simulation, Spring 2026
+        - Harvard, SCI 6126: Materials, Spring 2026
+        - Harvard, SCI 6121: Environmetal Systems, Fall 2025
+        - Harvard, SCI 6492: Quantitative Aesthetics : Introduction to Machine Learning and Perceptual Machines for Design, Fall 2025
 
         Teaching Assistant:
-        - UIUC TAM 251: Solid Mechanics, 2017-2018
-        - UIUC TAM 211: Statics, 2016-2017
+        - UIUC, TAM 251: Solid Mechanics, 2017-2018
+        - UIUC, TAM 211: Statics, 2016-2017
 
 ####################################################################################################
 
@@ -214,17 +214,17 @@ press:
   summary:
   items:
 
-    - title: What Is Best Time To Consume Electricity, Cut Carbon Emissions?, 2025
+    - title: What Is Best Time To Consume Electricity, Cut Carbon Emissions, 2025
       description: |
-        Author, my paper titled [**Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization**](https://doi.org/10.1016/j.crsus.2025.100367) publsihed on Cell Reports Sustainability is featured as a [**news story**](https://news.utdallas.edu/science-technology/electricity-timing-2025/) at UT Dallas News Center.
+        My paper titled [**Real-Time Greenhouse Gas Emission Intensity Informed Demand-Side Load Regulation for Power Grid Decarbonization**](https://doi.org/10.1016/j.crsus.2025.100367) publsihed on Cell Reports Sustainability is featured as a [**news story**](https://news.utdallas.edu/science-technology/electricity-timing-2025/) at UT Dallas News Center.
 
     - title: It's a Controls Problem, 2025
       description: |
-        Invited Podcast Guest Speaker, Podcast Topic: [**Data, AI, and the Next Chapter in Building Automation**](https://open.spotify.com/episode/7abtfUr64ZO0k1FNMv31Da?si=PQhgerhWRg6VAfLBqfZ55Q&nd=1&dlsi=e7adf8dec3764221)
+        Invited podcast speaker on the topic of Data, AI, and the Next Chapter in Building Automation. [**Listen on Spotify**](https://open.spotify.com/episode/7abtfUr64ZO0k1FNMv31Da?si=PQhgerhWRg6VAfLBqfZ55Q&nd=1&dlsi=e7adf8dec3764221) [**Listen on Apple Podcasts**](https://podcasts.apple.com/nl/podcast/data-ai-and-the-next-chapter-in-building-automation/id1804914863?i=1000725178927) [**Listen on YouTube**](https://www.youtube.com/watch?v=g9B11mLjm-E)
 
     - title: Solar Eclipse Insights on the Grid and Buildings, 2024
       description: | 
-        Author, NANTUM AI case study on the solar eclipse insights on the grid and buildings [**Link to the case study**](https://www.nantum.ai/research/case-studies/solar-eclipse-insights-on-the-grid-and-buildings)
+        Author of NANTUM AI case study on the solar eclipse insights on the grid and buildings [**Link to the case study**](https://www.nantum.ai/research/case-studies/solar-eclipse-insights-on-the-grid-and-buildings)
 
     - title: Rudin ESG Report, 2024
       description: |
