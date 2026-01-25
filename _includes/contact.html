@@ -45,7 +45,7 @@
 
     {% if sidebar.researchgate %}
     <li class="researchgate"><i class="fab fa-researchgate"></i>
-      <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank">{{ sidebar.researchgate }}</a>
+      <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank">{% if sidebar.researchgate-name %}{{ sidebar.researchgate-name }}{% else %}{{ sidebar.researchgate }}{% endif %}</a>
     </li>
     {% endif %}
 
