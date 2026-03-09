@@ -78,6 +78,14 @@ publications:
   intro: |
 
   papers:
+  - title: Experimental Validation of an Ensembled Deep-learning Model Predictive Control Framework for Natural Ventilation
+    authors: Elence Xinzhu Chen, Ali Malkawi, Sang Won Kang, Gulai Shen, Holly Samuelson, Na Li
+    conference: Applied Energy, 2026 (Under Review)
+
+  - title: Human Building Interaction Through Large Language Model
+    authors: Gulai Shen, Yuqi Wang, Gurpreet Singh, Ali Mehmani
+    conference: ASME IDETC, 2026 (Under Review)
+
   - title: Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling
     authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
     conference: Nature Scientific Data, 2025 (Under Review)
@@ -85,10 +93,6 @@ publications:
   - title: Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling
     authors: Elence Xinzhu Chen, Ali Malkawi, Holly Samuelson, Gulai Shen, Na Li
     conference: Energy and Buildings, 2025 (Under Review)
-
-  - title: Human Building Interaction Through Large Language Model
-    authors: Gulai Shen, Yuqi Wang, Gurpreet Singh, Ali Mehmani
-    conference: (Under Review)
 
   - title: Joint Scheduling of DER under Demand Charges Structure and Approximation
     link: https://doi.org/10.1109/TSG.2025.3649098
