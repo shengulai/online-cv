@@ -41,6 +41,8 @@ sidebar:
 career-profile:
   title: News
   summary: |
+    - **Mar 20, 2026**: My new paper titled [**Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling**](https://doi.org/10.1016/j.enbuild.2026.117337) is now publsihed on Energy and Buildings.
+  
     - **Jan 5-14, 2026**: I am teaching a J-term class at Harvard GSD on the topic of [Data and AI in Building Operation and Management](https://www.gsd.harvard.edu/academics/j-term/).
     
     - **Oct 26-29, 2025**: I am invited to speak at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) at Atlanta, Georgia on the topic of [**Optimizing Building Operations Using Data and AI**](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a486489a-13d4-4c47-807d-9a94789d0d31).
@@ -91,8 +93,9 @@ publications:
     conference: Nature Scientific Data, 2025 (Under Review)
 
   - title: "Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling"
+    link: https://doi.org/10.1016/j.enbuild.2026.117337
     authors: Elence Xinzhu Chen, Ali Malkawi, Holly Samuelson, Gulai Shen, Na Li
-    conference: Energy and Buildings, 2026 (Accepted)
+    conference: Energy and Buildings, 2026
 
   - title: "Joint Scheduling of DER under Demand Charges Structure and Approximation"
     link: https://doi.org/10.1109/TSG.2025.3649098
