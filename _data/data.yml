@@ -80,6 +80,10 @@ publications:
   intro: |
 
   papers:
+  - title: "Topology-Grounded Causal Propagation for Enhanced Human-Building Interaction in HVAC Fault Management"
+    authors: Yuqi Wang, Steve Paul, Amir Behjat, Gerald Toge, Gulai Shen, Ali Mehmani
+    conference: Building and Environment, 2026 (Under Review)
+  
   - title: "Experimental Validation of an Ensembled Deep-learning Model Predictive Control Framework for Natural Ventilation"
     authors: Elence Xinzhu Chen, Ali Malkawi, Sang Won Kang, Gulai Shen, Holly Samuelson, Na Li
     conference: Building and Environment, 2026 (Under Review)
