@@ -80,6 +80,10 @@ publications:
   intro: |
 
   papers:
+  - title: "Towards human building interactive occupant-centric control: A critical review"
+    authors: Gulai Shen, Ting Dai, Yiwei Lyu, Elence Xinzhu Chen, Ali Malkawi
+    conference: Renewable and Sustainable Energy Reviews, 2026 (Under Review)
+  
   - title: "Topology-Grounded Causal Propagation for Enhanced Human-Building Interaction in HVAC Fault Management"
     authors: Yuqi Wang, Steve Paul, Amir Behjat, Gerald Toge, Gulai Shen, Ali Mehmani
     conference: Energy and Buildings, 2026 (Under Review)
@@ -88,13 +92,13 @@ publications:
     authors: Elence Xinzhu Chen, Ali Malkawi, Sang Won Kang, Gulai Shen, Holly Samuelson, Na Li
     conference: Building and Environment, 2026 (Under Review)
 
+  - title: "Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling"
+    authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
+    conference: Nature Scientific Data, 2026 (Under Review)
+
   - title: "A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning"
     authors: Yuqi Wang, Gulai Shen, Ali Mehmani
     conference: ASME IDETC, 2026 (Accepted)
-
-  - title: "Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling"
-    authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
-    conference: Nature Scientific Data, 2025 (Under Review)
 
   - title: "Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling"
     link: https://doi.org/10.1016/j.enbuild.2026.117337
