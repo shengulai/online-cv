@@ -41,6 +41,8 @@ sidebar:
 career-profile:
   title: News
   summary: |
+    - **Jun 11, 2026**: My new paper titled [**A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning**](https://doi.org/10.48550/arXiv.2606.11354) is accepted by ASME IDETC 2026, the preprint is available on arXiv.
+    
     - **Mar 20, 2026**: My new paper titled [**Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling**](https://doi.org/10.1016/j.enbuild.2026.117337) is now publsihed on Energy and Buildings.
   
     - **Jan 5-14, 2026**: I am teaching a J-term class at Harvard GSD on the topic of [Data and AI in Building Operation and Management](https://www.gsd.harvard.edu/academics/j-term/).
@@ -82,7 +84,7 @@ publications:
   papers:
   - title: "Towards Human Building Interactive Occupant-centric Control: A Critical Review"
     authors: Gulai Shen, Ting Dai, Yiwei Lyu, Elence Xinzhu Chen, Ali Malkawi
-    conference: Building and Environment, 2026 (Under Review)
+    conference: (Under Review)
   
   - title: "Topology-Grounded Causal Propagation for Enhanced Human-Building Interaction in HVAC Fault Management"
     authors: Yuqi Wang, Steve Paul, Amir Behjat, Gerald Toge, Gulai Shen, Ali Mehmani
@@ -98,7 +100,7 @@ publications:
 
   - title: "A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning"
     authors: Yuqi Wang, Gulai Shen, Ali Mehmani
-    conference: ASME IDETC, 2026 (Accepted)
+    conference: ASME IDETC, 2026 (Accepted), [**Link to the preprint**](https://doi.org/10.48550/arXiv.2606.11354)
 
   - title: "Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling"
     link: https://doi.org/10.1016/j.enbuild.2026.117337
