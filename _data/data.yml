@@ -99,8 +99,9 @@ publications:
     conference: Nature Scientific Data, 2026 (Under Review)
 
   - title: "A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning"
+    link: https://doi.org/10.48550/arXiv.2606.11354
     authors: Yuqi Wang, Gulai Shen, Ali Mehmani
-    conference: ASME IDETC, 2026 (Accepted), [**Link to the preprint**](https://doi.org/10.48550/arXiv.2606.11354)
+    conference: ASME IDETC, 2026
 
   - title: "Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling"
     link: https://doi.org/10.1016/j.enbuild.2026.117337
