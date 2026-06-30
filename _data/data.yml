@@ -41,6 +41,8 @@ sidebar:
 career-profile:
   title: News
   summary: |
+    - **Jun 29, 2026**: My new paper titled [**Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling**](https://doi.org/10.1038/s41597-026-07720-3) is now publsihed on Nature Scientific Data.
+    
     - **Jun 11, 2026**: My new paper titled [**A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning**](https://doi.org/10.48550/arXiv.2606.11354) is accepted by ASME IDETC 2026, the preprint is available on arXiv.
     
     - **Mar 20, 2026**: My new paper titled [**Asynchronous Multi-agent Reinforcement Learning for Coordinated Control of Natural Ventilation and Radiant Cooling**](https://doi.org/10.1016/j.enbuild.2026.117337) is now publsihed on Energy and Buildings.
@@ -96,7 +98,8 @@ publications:
 
   - title: "Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling"
     authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
-    conference: Nature Scientific Data, 2026 (Under Review)
+    link: https://doi.org/10.1038/s41597-026-07720-3
+    conference: Nature Scientific Data, 2026
 
   - title: "A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning"
     link: https://doi.org/10.48550/arXiv.2606.11354
