@@ -84,6 +84,14 @@ publications:
   intro: |
 
   papers:
+  - title: "A Markov chain-based method for interactive individual occupancy status forecasting"
+    authors: Gulai Shen, Ali Malkawi, Na Li
+    conference: Building and Environment, 2026 (Under Review)
+
+  - title: "A Gaussian Process-based method for interactive individual occupant comfort modeling"
+    authors: Gulai Shen, Ali Malkawi, Na Li
+    conference: Building and Environment, 2026 (Under Review)
+  
   - title: "Towards Human Building Interactive Occupant-centric Control: A Critical Review"
     authors: Gulai Shen, Ting Dai, Yiwei Lyu, Elence Xinzhu Chen, Ali Malkawi
     conference: (Under Review)
