@@ -41,6 +41,8 @@ sidebar:
 career-profile:
   title: News
   summary: |
+    - **Aug 23-26, 2026**: I will be attending ASME IDETC 2026 in Huston, Texas. We will be presenting our paper titled [**A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning**](https://doi.org/10.48550/arXiv.2606.11354). I will also be organizing the DAC-05 Design and Optimization of Energy System, check the conference schedule [here](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2026-Schedule-at-a-Glance.pdf)
+    
     - **Jun 29, 2026**: My new paper titled [**Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling**](https://doi.org/10.1038/s41597-026-07720-3) is now publsihed on Nature Scientific Data.
     
     - **Jun 11, 2026**: My new paper titled [**A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning**](https://doi.org/10.48550/arXiv.2606.11354) is accepted by ASME IDETC 2026, the preprint is available on arXiv.
@@ -174,6 +176,10 @@ projects:
     - title: ASME International Design Engineering Technical Conferences (IDETC), 2025 - Present
       description: |
         Session Chair for DAC-05-Design and Optimization of Energy Systems
+
+    - title: IEEE PES ISGT Europe 2026
+      description: |
+        My co-author Prof. Ahmed Alahmed presented our paper titled [**Joint Scheduling of DER under Demand Charges Structure and Approximation**](https://doi.org/10.1109/TSG.2025.3649098) at the IEEE PES ISGT Europe 2026 in Budapest, Hungary.
 
     - title: INFORMS Annual Meeting, 2025
       description: |
