@@ -86,6 +86,10 @@ publications:
   intro: |
 
   papers:
+  - title: "Graph-guided flow matching for coupled indoor and outdoor airflow prediction in naturally ventilated multiroom buildings"
+    authors: Ting Dai, Xiaoshi Wang, Gulai Shen, Qingyan Chen
+    conference: Sustainable Cities and Society, 2026 (Under Review)
+  
   - title: "A Markov chain-based method for interactive individual occupancy status forecasting"
     authors: Gulai Shen, Ali Malkawi, Na Li
     conference: Building and Environment, 2026 (Under Review)
@@ -100,7 +104,7 @@ publications:
   
   - title: "Topology-Grounded Causal Propagation for Enhanced Human-Building Interaction in HVAC Fault Management"
     authors: Yuqi Wang, Steve Paul, Amir Behjat, Gerald Toge, Gulai Shen, Ali Mehmani
-    conference: Energy and Buildings, 2026 (Under Review)
+    conference: (Under Review)
   
   - title: "Experimental Validation of an Ensembled Deep-learning Model Predictive Control Framework for Natural Ventilation"
     authors: Elence Xinzhu Chen, Ali Malkawi, Sang Won Kang, Gulai Shen, Holly Samuelson, Na Li
