@@ -107,15 +107,15 @@ publications:
   # - title: "Topology-Grounded Causal Propagation for Enhanced Human-Building Interaction in HVAC Fault Management"
   #   authors: Yuqi Wang, Steve Paul, Amir Behjat, Gerald Toge, Gulai Shen, Ali Mehmani
   #   conference: (Under Review)
-
-  - title: "Towards Human Building Interactive Occupant-centric Control: A Critical Review"
-    authors: Gulai Shen, Ting Dai, Yiwei Lyu, Elence Xinzhu Chen, Ali Malkawi
-    link: https://doi.org/10.13140/RG.2.2.23918.98880
-    conference: Publicly available on ResearchGate, not peer-reviewed, 2026
   
   - title: "Experimental Validation of an Ensembled Deep-learning Model Predictive Control Framework for Natural Ventilation"
     authors: Elence Xinzhu Chen, Ali Malkawi, Sang Won Kang, Gulai Shen, Holly Samuelson, Na Li
     conference: Building and Environment, 2026 (Under Review)
+  
+  - title: "Towards Human Building Interactive Occupant-centric Control: A Critical Review"
+    authors: Gulai Shen, Ting Dai, Yiwei Lyu, Elence Xinzhu Chen, Ali Malkawi
+    link: https://doi.org/10.13140/RG.2.2.23918.98880
+    conference: Publicly available on ResearchGate, not peer-reviewed, 2026
 
   - title: "Minute-Level Dataset from a Naturally Ventilated Building for Benchmarking and Learning-Based Modeling"
     authors: Sunghwan Lim, Ali Malkawi, Sang Won Kang, Gulai Shen, Yiwei Lyu, Peter Howard
