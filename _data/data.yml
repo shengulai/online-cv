@@ -81,13 +81,13 @@ publications:
   intro: |
 
   papers:
-  - title: "Spatiotemporal Reconstruction of Indoor CO2 Fields from Sparse Sensors"
-    authors: Gulai Shen, Sang Won Kang, Ting Dai
-    conference: ASHRAE Winter Conference, 2027 (Under Review)
+  # - title: "Spatiotemporal Reconstruction of Indoor CO2 Fields from Sparse Sensors"
+  #   authors: Gulai Shen, Sang Won Kang, Ting Dai
+  #   conference: ASHRAE Winter Conference, 2027 (Under Review)
   
   - title: "Graph-guided flow matching for coupled indoor and outdoor airflow prediction in naturally ventilated multiroom buildings"
     authors: Ting Dai, Xiaoshi Wang, Gulai Shen, Qingyan Chen
-    conference: Sustainable Cities and Society, 2026 (Under Review)
+    conference: Building Simulation, 2026 (Under Review)
   
   - title: "A Markov chain-based method for interactive individual occupancy status forecasting"
     authors: Gulai Shen, Ali Malkawi, Na Li
