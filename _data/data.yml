@@ -41,6 +41,8 @@ sidebar:
 career-profile:
   title: News
   summary: |
+    - **Nov 25, 2026**: My new paper titled [**A Gaussian Process-based method for interactive individual occupant comfort modeling**](https://doi.org/10.1016/j.buildenv.2026.115607) is now publsihed on Building and Environment. This paper develops a Gaussian Process-based method for interactive individual occupant comfort modeling and provides a foundation for occupant-centric personalized environment controls.
+    
     - **Oct 23, 2026**: I am sharing a review on the topic of [**Towards Human Building Interactive Occupant-centric Control: A Critical Review**](https://doi.org/10.13140/RG.2.2.23918.98880) on ResearchGate. The review summarizes the current state of the art in occupant-centric control and discusses the key challenges and opportunities. The article has not been peer-reviewed.
     
     - **Aug 23-26, 2026**: I will be attending ASME IDETC 2026 in Huston, Texas. We will be presenting our paper titled [**A Zero-Shot Multi-Agent Framework for Human-Building Interaction via Programmatic Reasoning**](https://doi.org/10.48550/arXiv.2606.11354). I will also be chairing the DAC-05 Design and Optimization of Energy System, check the conference schedule [**here**](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2026-Schedule-at-a-Glance.pdf).
@@ -103,7 +105,8 @@ publications:
 
   - title: "A Gaussian Process-based method for interactive individual occupant comfort modeling"
     authors: Gulai Shen, Ali Malkawi, Na Li
-    conference: Building and Environment, 2026 (Accepted)
+    link: https://doi.org/10.1016/j.buildenv.2026.115607
+    conference: Building and Environment, 2026
   
   - title: "Towards Human Building Interactive Occupant-centric Control: A Critical Review"
     authors: Gulai Shen, Ting Dai, Yiwei Lyu, Elence Xinzhu Chen, Ali Malkawi
