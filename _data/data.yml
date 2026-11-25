@@ -41,7 +41,7 @@ sidebar:
 career-profile:
   title: News
   summary: |
-    - **Nov 25, 2026**: My new paper titled [**A Gaussian Process-based method for interactive individual occupant comfort modeling**](https://doi.org/10.1016/j.buildenv.2026.115607) is now publsihed on Building and Environment. This paper develops a Gaussian Process-based method for interactive individual occupant comfort modeling and provides a foundation for occupant-centric personalized environment controls.
+    - **Nov 25, 2026**: My new paper titled [**A Gaussian Process-based method for interactive individual occupant comfort modeling**](https://doi.org/10.1016/j.buildenv.2026.115607) is now publsihed on Building and Environment. This paper develops a Gaussian Process-based method for interactive individual occupant comfort modeling and provides a foundation for occupant-centric personalized environment controls. The model and results shown in the publication are publicly available on [**GitHub**](https://github.com/shengulai/ind-occ-iew-gp-comfort.git).
     
     - **Oct 23, 2026**: I am sharing a review on the topic of [**Towards Human Building Interactive Occupant-centric Control: A Critical Review**](https://doi.org/10.13140/RG.2.2.23918.98880) on ResearchGate. The review summarizes the current state of the art in occupant-centric control and discusses the key challenges and opportunities. The article has not been peer-reviewed.
     
